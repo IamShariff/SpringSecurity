@@ -1,0 +1,12 @@
+server:
+  port: 1011
+  
+
+
+spring:
+  application:
+    name: USER-SERVICE
+  data:
+    mongodb:
+      uri: mongodb+srv://cryptobankhub:dn5KpCLxe7J3Gu9d@cryptobankhub.gv9a2cv.mongodb.net/?retryWrites=true&w=majority
+      database: Finlock
